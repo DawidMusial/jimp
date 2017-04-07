@@ -5,7 +5,7 @@
 
 typedef struct {
 		int n;
-		double *x;
+		double *z;
 		double *y;
 } points_t;
 
